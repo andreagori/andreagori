@@ -24,10 +24,11 @@
   * Watching tvshows from around the globe
 - 🕹️ I like to play games too
 
-### Lenguajes:
+### Languages:
 ![Static Badge](https://img.shields.io/badge/C-white?style=for-the-badge&logo=C&logoColor=%23FFFFFF&labelColor=%238B0000)
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-white?style=for-the-badge&logo=c%2B%2B&logoColor=%23FFFFFF&labelColor=%238B0000)
 ![Static Badge](https://img.shields.io/badge/PYTHON-white?style=for-the-badge&logo=python&logoColor=%23FFFFFF&labelColor=%238B0000)
+![Static Badge](https://img.shields.io/badge/JAVASCRIPT-white?style=for-the-badge&logo=javascript&logoColor=%23FFFFFF&labelColor=%238B0000)
 
 ### GitHub:
 
