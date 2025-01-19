@@ -3,7 +3,7 @@
 <div align="center">
 <h1 align="center">IT'S ANDREA 🔺❤️🔺</h1>
 </div>
-<img src="https://imgur.com/a/xiFozWp">
+<img src="https://i.imgur.com/CNDkepe.png">
 
 ![GitHub followers](https://img.shields.io/github/followers/andreagori?logoColor=%238B0000)
 <a href="https://andreagori.github.io/Portfolio.Microsoft/" target="blank"><img align="right" src="https://img.shields.io/badge/WEBSITE-red?style=plastic&logo=click%20here&logoColor=%238B0000&labelColor=%238B0000&color=%23FFFFFF"/></a>
